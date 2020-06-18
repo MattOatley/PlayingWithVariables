@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithVariables", "PlayingWithVariables\PlayingWithVariables.csproj", "{A1855347-31FB-4680-A961-8551BB3FA715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1855347-31FB-4680-A961-8551BB3FA715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1855347-31FB-4680-A961-8551BB3FA715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1855347-31FB-4680-A961-8551BB3FA715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1855347-31FB-4680-A961-8551BB3FA715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8FDD939-E486-431D-806E-BA2626892FD3}
+	EndGlobalSection
+EndGlobal
